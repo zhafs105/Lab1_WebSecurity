@@ -1,10 +1,14 @@
 # Lab1_WebSecurity
 
 BIS 20303 Web Security
+
 Lab 1: Exploring OWASP & Web Security Risks
+
 Lab Type: Group Research & Online Publication
+
 ________________________________________
 Objective
+
 •	Understand the role of OWASP and its importance in web security.
 
 •	Explore the OWASP Top 10 security risks and their impact on web applications.
@@ -17,6 +21,7 @@ Objective
 
 ________________________________________
 Group Formation & Submission Format
+
 •	Students must form groups of five (5).
 
 •	The final work must be published online using any publicly accessible platform (e.g., Blogspot, GitHub Pages, Medium, or a personal website).
